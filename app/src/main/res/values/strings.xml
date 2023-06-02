@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherAlerts</string>
+    <string name="name">Name: %s</string>
+    <string name="start_date">Start date: %s</string>
+    <string name="end_date">End date: %s</string>
+    <string name="source">Source: %s</string>
+    <string name="duration">Duration: %s</string>
+    <string name="empty_property">-</string>
+    <string name="error_message">Something went wrong! Please try again later!</string>
+</resources>
